@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Alyson & I'm a Data Scientist @ here at GitHub. 
+My name is Alyson & I'm a Data Scientist here @ GitHub. 
 
 - 🔭 I’m currently working on data modeling subscription revenue for GitHub
 - 🌱 I’m currently learning about racism / sexism in the context of search engines. (Reading: Algorithms of Oppression by Safiya Umoja Noble) 
